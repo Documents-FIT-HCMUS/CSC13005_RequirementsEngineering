@@ -1,7 +1,7 @@
 1. Có bao nhiêu tác nhân gây thay đổi y/c, đáp án là 6 (slide có), nêu ra rồi liên hệ tới đề tài của nhóm.
 2. Có bao nhiêu loại prototype, ưu nhược điểm từng loại, nhóm dùng loại nào, giải thích vì sao, vẽ ra 1 màn trong prototype của nhóm.
-3. Có bao nhiêu phương pháp xác định độ ưu tiên của y/c. Liên hệ với đồ án của nhóm
+3. Có bao nhiêu phương pháp xác định độ ưu tiên của y/c. Liệt kê 15 yêu cầu sắp xếp theo độ ưu tiên từ đề tài của nhóm.
 4. Em thấy tâm đắc nhất với pp TTYC của nhóm nào, vì sao
 5. Em thấy đề tài nào ít khả thi nhất, vì sao
 6. Ghi lại chính xác tên đề tài nhóm em làm
-7. Vẽ prototype cho 1 chức năng đề yêu cầu sẵn (2-3 màn)
+7. Cho một hệ thống bán vé xe, có 1 list yêu cầu cho trước. Hỏi nếu hệ thống scale từ công ty lên nhiều công ty thì yêu cầu nào bị thay đổi? Nêu ra các thuộc tính chất lượng. Vẽ prototype cho tính năng đặt vé xe.
